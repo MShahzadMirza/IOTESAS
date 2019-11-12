@@ -1,0 +1,172 @@
+D:\TEO related data\IOT\IOT\bin\IOT.dll.config
+D:\TEO related data\IOT\IOT\bin\IOT.dll
+D:\TEO related data\IOT\IOT\bin\IOT.pdb
+D:\TEO related data\IOT\IOT\bin\roslyn\csc.exe
+D:\TEO related data\IOT\IOT\bin\roslyn\csc.exe.config
+D:\TEO related data\IOT\IOT\bin\roslyn\csc.rsp
+D:\TEO related data\IOT\IOT\bin\roslyn\csi.exe
+D:\TEO related data\IOT\IOT\bin\roslyn\csi.exe.config
+D:\TEO related data\IOT\IOT\bin\roslyn\csi.rsp
+D:\TEO related data\IOT\IOT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TEO related data\IOT\IOT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TEO related data\IOT\IOT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TEO related data\IOT\IOT\bin\roslyn\System.AppContext.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Collections.Immutable.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Console.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.IO.Compression.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.IO.FileSystem.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.IO.Pipes.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Reflection.Metadata.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Security.AccessControl.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Security.Claims.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Security.Principal.Windows.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.ValueTuple.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Xml.XPath.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TEO related data\IOT\IOT\bin\roslyn\vbc.exe
+D:\TEO related data\IOT\IOT\bin\roslyn\vbc.exe.config
+D:\TEO related data\IOT\IOT\bin\roslyn\vbc.rsp
+D:\TEO related data\IOT\IOT\bin\roslyn\VBCSCompiler.exe
+D:\TEO related data\IOT\IOT\bin\roslyn\VBCSCompiler.exe.config
+D:\TEO related data\IOT\IOT\bin\Antlr3.Runtime.dll
+D:\TEO related data\IOT\IOT\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\TEO related data\IOT\IOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TEO related data\IOT\IOT\bin\Microsoft.Web.Infrastructure.dll
+D:\TEO related data\IOT\IOT\bin\Newtonsoft.Json.dll
+D:\TEO related data\IOT\IOT\bin\System.Diagnostics.DiagnosticSource.dll
+D:\TEO related data\IOT\IOT\bin\System.Net.Http.Formatting.dll
+D:\TEO related data\IOT\IOT\bin\System.Web.Helpers.dll
+D:\TEO related data\IOT\IOT\bin\System.Web.Http.dll
+D:\TEO related data\IOT\IOT\bin\System.Web.Http.WebHost.dll
+D:\TEO related data\IOT\IOT\bin\System.Web.Mvc.dll
+D:\TEO related data\IOT\IOT\bin\System.Web.Optimization.dll
+D:\TEO related data\IOT\IOT\bin\System.Web.Razor.dll
+D:\TEO related data\IOT\IOT\bin\System.Web.WebPages.Deployment.dll
+D:\TEO related data\IOT\IOT\bin\System.Web.WebPages.dll
+D:\TEO related data\IOT\IOT\bin\System.Web.WebPages.Razor.dll
+D:\TEO related data\IOT\IOT\bin\WebGrease.dll
+D:\TEO related data\IOT\IOT\bin\Newtonsoft.Json.xml
+D:\TEO related data\IOT\IOT\bin\System.Net.Http.Formatting.xml
+D:\TEO related data\IOT\IOT\bin\System.Web.Helpers.xml
+D:\TEO related data\IOT\IOT\bin\System.Web.Http.xml
+D:\TEO related data\IOT\IOT\bin\System.Web.Http.WebHost.xml
+D:\TEO related data\IOT\IOT\bin\System.Web.Mvc.xml
+D:\TEO related data\IOT\IOT\bin\System.Web.Optimization.xml
+D:\TEO related data\IOT\IOT\bin\System.Web.Razor.xml
+D:\TEO related data\IOT\IOT\bin\System.Web.WebPages.xml
+D:\TEO related data\IOT\IOT\bin\System.Web.WebPages.Deployment.xml
+D:\TEO related data\IOT\IOT\bin\System.Web.WebPages.Razor.xml
+D:\TEO related data\IOT\IOT\bin\Antlr3.Runtime.pdb
+D:\TEO related data\IOT\IOT\bin\System.Diagnostics.DiagnosticSource.xml
+D:\TEO related data\IOT\IOT\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\TEO related data\IOT\IOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TEO related data\IOT\IOT\obj\Debug\IOT.csprojAssemblyReference.cache
+D:\TEO related data\IOT\IOT\obj\Debug\IOT.csproj.CoreCompileInputs.cache
+D:\TEO related data\IOT\IOT\obj\Debug\IOT.csproj.CopyComplete
+D:\TEO related data\IOT\IOT\obj\Debug\IOT.dll
+D:\TEO related data\IOT\IOT\obj\Debug\IOT.pdb
+D:\DCRSolutions\IOT\IOT\bin\IOT.dll.config
+D:\DCRSolutions\IOT\IOT\bin\IOT.dll
+D:\DCRSolutions\IOT\IOT\bin\IOT.pdb
+D:\DCRSolutions\IOT\IOT\bin\roslyn\csc.exe
+D:\DCRSolutions\IOT\IOT\bin\roslyn\csc.exe.config
+D:\DCRSolutions\IOT\IOT\bin\roslyn\csc.rsp
+D:\DCRSolutions\IOT\IOT\bin\roslyn\csi.exe
+D:\DCRSolutions\IOT\IOT\bin\roslyn\csi.exe.config
+D:\DCRSolutions\IOT\IOT\bin\roslyn\csi.rsp
+D:\DCRSolutions\IOT\IOT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DCRSolutions\IOT\IOT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DCRSolutions\IOT\IOT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.AppContext.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Collections.Immutable.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Console.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.IO.Compression.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.IO.FileSystem.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.IO.Pipes.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Reflection.Metadata.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Security.AccessControl.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Security.Claims.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.ValueTuple.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Xml.XPath.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DCRSolutions\IOT\IOT\bin\roslyn\vbc.exe
+D:\DCRSolutions\IOT\IOT\bin\roslyn\vbc.exe.config
+D:\DCRSolutions\IOT\IOT\bin\roslyn\vbc.rsp
+D:\DCRSolutions\IOT\IOT\bin\roslyn\VBCSCompiler.exe
+D:\DCRSolutions\IOT\IOT\bin\roslyn\VBCSCompiler.exe.config
+D:\DCRSolutions\IOT\IOT\bin\Antlr3.Runtime.dll
+D:\DCRSolutions\IOT\IOT\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\DCRSolutions\IOT\IOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DCRSolutions\IOT\IOT\bin\Microsoft.Web.Infrastructure.dll
+D:\DCRSolutions\IOT\IOT\bin\Newtonsoft.Json.dll
+D:\DCRSolutions\IOT\IOT\bin\System.Diagnostics.DiagnosticSource.dll
+D:\DCRSolutions\IOT\IOT\bin\System.Net.Http.Formatting.dll
+D:\DCRSolutions\IOT\IOT\bin\System.Web.Helpers.dll
+D:\DCRSolutions\IOT\IOT\bin\System.Web.Http.dll
+D:\DCRSolutions\IOT\IOT\bin\System.Web.Http.WebHost.dll
+D:\DCRSolutions\IOT\IOT\bin\System.Web.Mvc.dll
+D:\DCRSolutions\IOT\IOT\bin\System.Web.Optimization.dll
+D:\DCRSolutions\IOT\IOT\bin\System.Web.Razor.dll
+D:\DCRSolutions\IOT\IOT\bin\System.Web.WebPages.Deployment.dll
+D:\DCRSolutions\IOT\IOT\bin\System.Web.WebPages.dll
+D:\DCRSolutions\IOT\IOT\bin\System.Web.WebPages.Razor.dll
+D:\DCRSolutions\IOT\IOT\bin\WebGrease.dll
+D:\DCRSolutions\IOT\IOT\bin\Newtonsoft.Json.xml
+D:\DCRSolutions\IOT\IOT\bin\System.Net.Http.Formatting.xml
+D:\DCRSolutions\IOT\IOT\bin\System.Web.Helpers.xml
+D:\DCRSolutions\IOT\IOT\bin\System.Web.Http.xml
+D:\DCRSolutions\IOT\IOT\bin\System.Web.Http.WebHost.xml
+D:\DCRSolutions\IOT\IOT\bin\System.Web.Mvc.xml
+D:\DCRSolutions\IOT\IOT\bin\System.Web.Optimization.xml
+D:\DCRSolutions\IOT\IOT\bin\System.Web.Razor.xml
+D:\DCRSolutions\IOT\IOT\bin\System.Web.WebPages.xml
+D:\DCRSolutions\IOT\IOT\bin\System.Web.WebPages.Deployment.xml
+D:\DCRSolutions\IOT\IOT\bin\System.Web.WebPages.Razor.xml
+D:\DCRSolutions\IOT\IOT\bin\Antlr3.Runtime.pdb
+D:\DCRSolutions\IOT\IOT\bin\System.Diagnostics.DiagnosticSource.xml
+D:\DCRSolutions\IOT\IOT\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\DCRSolutions\IOT\IOT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DCRSolutions\IOT\IOT\obj\Debug\IOT.csprojAssemblyReference.cache
+D:\DCRSolutions\IOT\IOT\obj\Debug\IOT.csproj.CoreCompileInputs.cache
+D:\DCRSolutions\IOT\IOT\obj\Debug\IOT.csproj.CopyComplete
+D:\DCRSolutions\IOT\IOT\obj\Debug\IOT.dll
+D:\DCRSolutions\IOT\IOT\obj\Debug\IOT.pdb
